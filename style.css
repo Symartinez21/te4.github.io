@@ -25,3 +25,10 @@
    height: 426px;
    background: url(gallery.png) no-repeat;
 }
+
+@font-face {
+  font-family: 'FAMILY_NAME';
+  font-style: NORMAL;
+  font-weight: 8;
+  src: url(RacingSansOne-Regular.woff2) format('woff2');
+}
