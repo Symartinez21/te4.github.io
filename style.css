@@ -1,3 +1,10 @@
+a{
+	text-decoration: none;
+	font-size:20px;
+	padding: 18px;
+	color:white;
+}
+
 body {
   background: #BBC0AC;
   background-image: url(gallery.png);
@@ -6,14 +13,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
 	}
-
-.container {
-    position: relative;
-    margin: 0 auto;
-    display: flex;
-    padding:10px
-    background: #D3A0AF;
-}
 
 img {
    display: block;
@@ -32,6 +31,14 @@ p {
   font-style: NORMAL;
   font-weight: 8;
   src: url(RacingSansOne-Regular.woff2) format('woff2');
+}
+
+.container {
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    padding:10px
+    background: #D3A0AF;
 }
 
 #myName {
