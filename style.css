@@ -9,18 +9,16 @@ body {
     margin: 0 auto;
     display: flex;
     padding:10px
-    color: #D3A0AF;
+    background: #D3A0AF;
 }
 
 img {
    display: block;
-   content: " ";
    z-index: 2;
    top: 0px;
    left: 0px;
    width: 633px;
    height: 426px;
-   background: url(Painting_Blue.png) no-repeat;
 }
 
 @font-face {
@@ -33,7 +31,7 @@ img {
 #myName {
    text-align: left;
    color: #7C8CAF;
-   font: 11px Arial;
+   font: 21px Arial;
    width: 479px;
    height: 40px;
    padding: 0px 0px 0px 0px;
