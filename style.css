@@ -1,3 +1,9 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background: ##BBC0AC url(gallery.png) repeat-x;
+	margin: 0px;
+	}
+
 .container {
     position: relative;
     margin: 0 auto;
@@ -11,7 +17,6 @@
    width: 479px;
    height: 40px;
    padding: 0px 0px 0px 0px;
-   background-image: url(t2.gif);
    background-repeat: no-repeat;
    background-position: 0px top;
 
@@ -23,7 +28,7 @@
    left: 0px;
    width: 633px;
    height: 426px;
-   background: url(gallery.png) no-repeat;
+   background: url(Painting_Blue.png) no-repeat;
 }
 
 @font-face {
