@@ -1,0 +1,47 @@
+Csszengarden:	
+Oceangarden
+ 
+Html-
+<div class="extra6" role="presentation">
+::after </div>
+Css-
+.extra6::after {
+   display: block;
+   content: " ";
+   z-index: 2;
+   top: 0px;
+   left: 0px;
+   width: 633px;
+   height: 426px;
+   background: url(seafloor.jpg) no-repeat;
+}
+ 
+Tinygarden
+ 
+Html -
+<div class="extra1" role="presentation"></div>
+Css-
+.extra1 {
+   position: fixed;
+   top: 0;
+   width: 37px;
+   height: 433px;
+   left: 50%;
+   margin-left: -235px;
+   background: url(pics/the_beauty.gif) no-repeat top left;
+ 
+ 
+Floraltouch
+ 
+Html - 
+<h3>So What is This About?</h3>
+.explanation h3 {
+   text-align: left;
+   color: #919191;
+   font: 11px Arial;
+   width: 479px;
+   height: 40px;
+   padding: 0px 0px 0px 0px;
+   background-image: url(t2.gif);
+   background-repeat: no-repeat;
+   background-position: 0px top;
