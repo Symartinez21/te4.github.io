@@ -9,6 +9,7 @@ body {
     margin: 0 auto;
     display: flex;
     padding:10px
+    color: #D3A0AF;
 }
 
 img {
@@ -31,7 +32,7 @@ img {
 
 #myName {
    text-align: left;
-   color: #919191;
+   color: #7C8CAF;
    font: 11px Arial;
    width: 479px;
    height: 40px;
