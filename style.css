@@ -1,7 +1,10 @@
 body {
-	font-family: Arial, Helvetica, sans-serif;
-	background: #BBC0AC url(gallery.png) repeat-x;
-	margin: 0px;
+  background: #BBC0AC
+  background-image: url(gallery.png);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
 	}
 
 .container {
