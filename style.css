@@ -11,17 +11,7 @@ body {
     padding:10px
 }
 
-#myName {
-   text-align: left;
-   color: #919191;
-   font: 11px Arial;
-   width: 479px;
-   height: 40px;
-   padding: 0px 0px 0px 0px;
-   background-repeat: no-repeat;
-   background-position: 0px top;
-
-.extra {
+img {
    display: block;
    content: " ";
    z-index: 2;
@@ -38,3 +28,13 @@ body {
   font-weight: 8;
   src: url(RacingSansOne-Regular.woff2) format('woff2');
 }
+
+#myName {
+   text-align: left;
+   color: #919191;
+   font: 11px Arial;
+   width: 479px;
+   height: 40px;
+   padding: 0px 0px 0px 0px;
+   background-repeat: no-repeat;
+   background-position: 0px top;
