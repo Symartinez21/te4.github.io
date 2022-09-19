@@ -3,3 +3,25 @@
     margin: 0 auto;
     display: flex;
 }
+
+.explanation h1 {
+   text-align: left;
+   color: #919191;
+   font: 11px Arial;
+   width: 479px;
+   height: 40px;
+   padding: 0px 0px 0px 0px;
+   background-image: url(t2.gif);
+   background-repeat: no-repeat;
+   background-position: 0px top;
+
+.extra{
+   display: block;
+   content: " ";
+   z-index: 2;
+   top: 0px;
+   left: 0px;
+   width: 633px;
+   height: 426px;
+   background: url(gallery.png) no-repeat;
+}

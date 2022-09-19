@@ -1,6 +1,6 @@
-Csszengarden:	
+Csszengarden:
 Oceangarden
- 
+
 Html-
 <div class="extra6" role="presentation">
 ::after </div>
@@ -15,9 +15,9 @@ Css-
    height: 426px;
    background: url(seafloor.jpg) no-repeat;
 }
- 
+
 Tinygarden
- 
+
 Html -
 <div class="extra1" role="presentation"></div>
 Css-
@@ -29,11 +29,11 @@ Css-
    left: 50%;
    margin-left: -235px;
    background: url(pics/the_beauty.gif) no-repeat top left;
- 
- 
+
+
 Floraltouch
- 
-Html - 
+
+Html -
 <h3>So What is This About?</h3>
 .explanation h3 {
    text-align: left;
