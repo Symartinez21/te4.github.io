@@ -23,6 +23,9 @@ img {
    width: 633px;
    height: 426px;
 }
+p {
+  color: #4F3012
+}
 
 @font-face {
   font-family: 'FAMILY_NAME';
